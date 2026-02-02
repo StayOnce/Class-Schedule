@@ -1,2 +1,2 @@
 # Class-Schedule
-我和诡秘的课表ovo
+我试图做一个课表
